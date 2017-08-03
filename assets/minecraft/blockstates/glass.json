@@ -1,5 +1,10 @@
 {
     "variants": {
-        "normal": { "model": "glass" }
+        "normal": [
+			{ "model": "glass", "weight": 40 },
+            { "model": "glass1", "weight": 40 },
+			{ "model": "glass2", "weight": 10 },
+			{ "model": "glass3", "weight": 10 }
+        ]
     }
 }
